@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Joshua's Personal Website"
+title                    : "Jiashu's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : photo.jpg
-  name             : "Joshua (屈嘉树)"
+  name             : "Jiashu Qu"
   pronouns         : # example: "she/her"  
-  bio              : "EE undergraduate student, interested in multi-modal learning & anomaly detection"
-  location         : "Chongqing, CN"
-  employer         : "Chongqing University"
+  bio              : "Undergraduate student@CQU&UofCincy, interested in LLMs/MLLMs"
+  # location         : "Chongqing, CN"
+  # employer         : "Chongqing University"
   uri              : # URL
   email            : "quju@mail.uc.edu" 
 
