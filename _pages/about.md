@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiashu Qu, I'm a final year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in alignment for agents and MLLMs, with a focus on improving their reliability and trustworthiness.
+My name is Jiashu Qu, I'm a final year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in alignment for LLMs and MLLMs, with a focus on improving their reliability and trustworthiness.
 
 # 📝 Research
 
@@ -50,7 +50,7 @@ My name is Jiashu Qu, I'm a final year undergradute from the Chongqing Universit
 
 # 💻 Experience
 
-- Algorithm Intern, ByteDance  
+- Agent Algorithm Research Intern, ByteDance  
   *May 2026 – Aug 2026 (incoming)*  
   <span style="font-size: 0.9em; color: gray;">
   
