@@ -19,7 +19,7 @@ My research interests broadly center on alignment in systems built upon large mo
 
 # 💻 Experience
 
-- Research Intern, ByteDance Stone
+- Algorithm Intern, ByteDance Stone  
   *May 2026 – Aug 2026 (incoming)*  
   <span style="font-size: 0.9em; color: gray;">
   
@@ -28,7 +28,7 @@ My research interests broadly center on alignment in systems built upon large mo
   <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
 
 - Research Intern, FORTIS Lab @ University of Southern California  
-  *Dec 2024 – May 2025*  
+  *Dec 2024 – Now*  
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
     
 # 📝 Research
