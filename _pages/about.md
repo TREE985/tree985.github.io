@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size: 0.95em;">
+
 My name is Jiashu Qu, I'm a final year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in alignment for agents and MLLMs, with a focus on improving their reliability and trustworthiness.
 
 # 📝 Research
@@ -68,7 +68,6 @@ My name is Jiashu Qu, I'm a final year undergradute from the Chongqing Universit
 # 📖 Educations
 - *2021.06 - 2026.05*, Chongqing University & the University of Cincinnati, EE
     - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
-</div>
 
 
 
