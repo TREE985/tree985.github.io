@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiashu Qu, I'm a final year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in alignment for LLMs and MLLMs, with a focus on improving their reliability and trustworthiness.
+My name is Jiashu Qu, and I am a final-year undergraduate at Chongqing University and the University of Cincinnati. My research focuses on alignment in LLMs and MLLMs, with an emphasis on improving their reliability and trustworthiness. 
+
+During my undergraduate studies, I have been fortunate to collaborate with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and [Hongcheng Gao](https://gao-hongcheng.github.io/). I greatly benefited from their guidance and mentorship, which has significantly influenced my research interests and direction.
 
 # 📝 Research
 
