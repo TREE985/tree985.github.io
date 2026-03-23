@@ -13,6 +13,24 @@ During my undergraduate studies, I have been fortunate to collaborate with Prof.
 
 My research interests broadly center on alignment in systems built upon large models, including LLMs, MLLMs, VLA, and Agent-based systems. I am interested in both alignment failures across modalities (e.g., hallucination) and misalignment with human objectives in real-world interactive systems. 
 
+# 📖 Educations
+- *2021.06 - 2026.05*, Chongqing University & University of Cincinnati
+    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
+
+# 💻 Experience
+
+- Research Intern, ByteDance Stone
+  *May 2026 – Aug 2026 (incoming)*  
+  <span style="font-size: 0.9em; color: gray;">
+  
+- Research Intern, The Center of Safe & Trustworthy AI @ Shanghai AI Lab  
+  *May 2025 – Aug 2025*  
+  <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
+
+- Research Intern, FORTIS Lab @ University of Southern California  
+  *Dec 2024 – May 2025*  
+  <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
+    
 # 📝 Research
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
@@ -52,26 +70,7 @@ My research interests broadly center on alignment in systems built upon large mo
   *Sep 2023 – Dec 2023*
 -->
 
-# 💻 Experience
 
-- Agent Algorithm Research Intern, ByteDance  
-  *May 2026 – Aug 2026 (incoming)*  
-  <span style="font-size: 0.9em; color: gray;">
-  
-- Research Intern, The Center of Safe & Trustworthy AI, Shanghai AI Lab  
-  *May 2025 – Aug 2025*  
-  <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
-
-- Research Intern, FORTIS Lab, University of Southern California  
-  *Dec 2024 – May 2025*  
-  <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
-
-- Research Intern, Tsinghua Sichuan Energy Internet Research Institute  
-  *Sep 2023 – Dec 2023*
-  
-# 📖 Educations
-- *2021.06 - 2026.05*, Chongqing University & the University of Cincinnati, EE
-    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
 
 
 
