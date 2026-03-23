@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jiashu Qu's homepage"
+title: "Jiashu's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-My name is Jiashu Qu, I'm a fourth year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in the alignment issues in agents and MLLM.
+<div style="font-size: 0.95em;">
+My name is Jiashu Qu, I'm a final year undergradute from the Chongqing University and the University of Cincinnati. My research interests lie in alignment for agents and MLLMs, with a focus on improving their reliability and trustworthiness.
 
 # 📝 Research
 
@@ -31,13 +31,13 @@ My name is Jiashu Qu, I'm a fourth year undergradute from the Chongqing Universi
   *Under review*  
   [paper](https://arxiv.org/pdf/2503.19622)
 
-  
+<!--  
 # 💻 Experience
-<!--
+
 - *2023.09 - 2023.12*, [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), Sichuan.
 - *2024.12 - 2025.05*, [FORTIS Lab, University of Southern California](https://viterbi-web.usc.edu/~yzhao010/lab.html), Remote.
 - *2025.05 - 2025.08*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
--->
+
 - **Research Intern**, Shanghai AI Lab 
   *May 2025 – Aug 2025*
 
@@ -46,11 +46,29 @@ My name is Jiashu Qu, I'm a fourth year undergradute from the Chongqing Universi
 
 - **Research Intern**, Tsinghua Sichuan Energy Internet Research Institute 
   *Sep 2023 – Dec 2023*
+-->
+
+# 💻 Experience
+
+- Algorithm Intern, ByteDance  
+  *May 2026 – Aug 2026 (incoming)*  
+  <span style="font-size: 0.9em; color: gray;">
+  
+- Research Intern, The Center of Safe & Trustworthy AI, Shanghai AI Lab  
+  *May 2025 – Aug 2025*  
+  <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
+
+- Research Intern, FORTIS Lab, University of Southern California  
+  *Dec 2024 – May 2025*  
+  <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
+
+- Research Intern, Tsinghua Sichuan Energy Internet Research Institute  
+  *Sep 2023 – Dec 2023*
   
 # 📖 Educations
 - *2021.06 - 2026.05*, Chongqing University & the University of Cincinnati, EE
-    - <span style="font-size: smaller;"> Rank: 1/97 </span>
-
+    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
+</div>
 
 
 
