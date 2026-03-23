@@ -13,17 +13,17 @@ My name is Jiashu Qu, I'm a final year undergradute from the Chongqing Universit
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
   Shanghai AI Lab et al. (**Core Contributor**)  
-  *Tech Report*  
+  ***Tech Report***  
   [paper](https://arxiv.org/pdf/2507.18576)
   
 - **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs**  
   Z. Wen, **J. Qu**, D. Liu, Z. Liu, R. Wu, Y. Yang, X. Jin, H. Xu, X. Liu, W. Li, C. Lu  
-  *ICLR 2026*  
+  ***ICLR 2026***  
   [paper](https://arxiv.org/pdf/2507.11097)
 
 - **Treble Counterfactual VLMs: A Causal Approach to Hallucination**  
   S. Li, **J. Qu**, Y. Zhou, Y. Qin, T. Yang, Y. Zhao  
-  *EMNLP 2025*  
+  ***EMNLP 2025***  
   [paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
 
 - **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
