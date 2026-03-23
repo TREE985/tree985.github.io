@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : travel_img1.jpg
-  name             : "Jiashu Qu"
+  # name             : "Jiashu Qu"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ CQU & UofCincy, interested in LLMs/MLLMs"
   # location         : "Chongqing, CN"
