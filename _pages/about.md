@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiashu's homepage"
+title: "Jiashu Qu"
 author_profile: true
 redirect_from: 
   - /about/
