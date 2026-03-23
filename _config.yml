@@ -24,7 +24,7 @@ author:
   avatar           : photo.jpg
   name             : "Jiashu Qu"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student@CQU&UofCincy, interested in LLMs/MLLMs"
+  bio              : "Undergraduate student @ CQU & UofCincy, interested in LLMs/MLLMs"
   # location         : "Chongqing, CN"
   # employer         : "Chongqing University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jiashu-qu-3aa935316/"
+  # linkedin         : "https://www.linkedin.com/in/jiashu-qu-3aa935316/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
