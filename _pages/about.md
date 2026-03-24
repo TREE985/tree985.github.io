@@ -56,6 +56,10 @@ My research interests broadly center on alignment in systems built upon large mo
 # 🧑‍💻 Academic Service
 - Subreviewer, ESORICS 2025
 
+# 🏆 Honors and Awards
+- National Scholarship (Top 1%, twice)
+- Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM)
+
 # 🎯 Miscellaneous
 - Fan of FC Bayern Munich · Interested in hip-hop (Asen) · Enjoy playing CSGO
   
