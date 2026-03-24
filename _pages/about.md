@@ -53,6 +53,8 @@ My research interests broadly center on alignment in systems built upon large mo
   *Under review*  
   [paper](https://arxiv.org/pdf/2503.19622)
 
+# 🧑‍💻 Academic Service
+- Subreviewer, ESORICS 2025
 <!--  
 # 💻 Experience
 
