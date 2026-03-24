@@ -45,7 +45,7 @@ My research interests broadly center on alignment in systems built upon large mo
 
 - **Treble Counterfactual VLMs: A Causal Approach to Hallucination**  
   S. Li, **J. Qu**, Y. Zhou, Y. Qin, T. Yang, Y. Zhao  
-  ***EMNLP 2025***  
+  ***EMNLP 2025 Findings***  
   [paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
 
 - **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
@@ -56,22 +56,9 @@ My research interests broadly center on alignment in systems built upon large mo
 # 🧑‍💻 Academic Service
 - Subreviewer, ESORICS 2025
 
-<!--  
-# 💻 Experience
-
-- *2023.09 - 2023.12*, [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/), Sichuan.
-- *2024.12 - 2025.05*, [FORTIS Lab, University of Southern California](https://viterbi-web.usc.edu/~yzhao010/lab.html), Remote.
-- *2025.05 - 2025.08*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
-
-- **Research Intern**, Shanghai AI Lab 
-  *May 2025 – Aug 2025*
-
-- **Research Intern**, FORTIS Lab, University of Southern California 
-  *Dec 2024 – May 2025*
-
-- **Research Intern**, Tsinghua Sichuan Energy Internet Research Institute 
-  *Sep 2023 – Dec 2023*
--->
+# 🎯 Miscellaneous
+- Fan of FC Bayern Munich · Interested in hip-hop (Asen) · Enjoy playing CSGO
+  
 
 
 
