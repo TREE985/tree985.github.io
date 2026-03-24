@@ -63,9 +63,16 @@ My research interests broadly center on alignment in systems built upon large mo
 # 🎯 Miscellaneous
 - Fan of FC Bayern Munich · Interested in hip-hop (Asen) · Enjoy playing CSGO
   
-<p>
-  Views: <span id="busuanzi_value_site_pv"></span>
+<p style="font-size: 0.8em; color: gray;">
+  👀 Visitors: <span id="busuanzi_value_site_uv"></span> ·
+  📊 Page Views: <span id="busuanzi_value_site_pv"></span>
 </p>
+
+<div style="margin-top: 10px;">
+  <script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=WdJcr9ZfollNxKTrurHzwsr1mFOIHfXXhCVynLdRNn8&cl=ffffff&w=a">
+  </script>
+</div>
 
 
 
