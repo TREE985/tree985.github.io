@@ -45,7 +45,7 @@ My research interests broadly center on alignment in systems built upon large mo
 
 - **Treble Counterfactual VLMs: A Causal Approach to Hallucination**  
   S. Li, **J. Qu**, Y. Zhou, Y. Qin, T. Yang, Y. Zhao  
-  ***EMNLP 2025 Findings***  
+  ***EMNLP 2025***  
   [paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
 
 - **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
