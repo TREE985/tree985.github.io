@@ -37,7 +37,7 @@ My research interests broadly center on **alignment in systems built upon large 
   *Under Review*
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
-  Shanghai AI Lab et al. (**Core Contributor**)  
+  **(Core Contributor)** Shanghai AI Lab et al.  
   ***Tech Report***  
   [paper](https://arxiv.org/pdf/2507.18576)
   
