@@ -33,7 +33,7 @@ My research interests broadly center on **alignment in systems built upon large 
     
 # 📝 Research
 - **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
-  S. Xie*, Z. Zhang*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
+  S. Xie\*, Z. Zhang\*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
   *Under Review*
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
