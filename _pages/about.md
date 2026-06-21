@@ -19,8 +19,8 @@ My research interests broadly center on **alignment in systems built upon large 
 
 # 💻 Experience
 
-- Algorithm Intern, ByteDance Stone  
-  *May 2026 – Aug 2026 (incoming)*  
+- Algorithm Intern, ByteDance  
+  *May 2026 – July 2026*  
   <span style="font-size: 0.9em; color: gray;">
   
 - Research Intern, The Center of Safe & Trustworthy AI @ Shanghai AI Lab  
@@ -32,6 +32,9 @@ My research interests broadly center on **alignment in systems built upon large 
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
     
 # 📝 Research
+- **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
+  S. Xie*, Z. Zhang*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
+  *Under Review*
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
   Shanghai AI Lab et al. (**Core Contributor**)  
