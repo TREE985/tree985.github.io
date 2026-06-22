@@ -12,6 +12,10 @@ My name is Jiashu Qu, and I am a final-year undergraduate at Chongqing Universit
 During my undergraduate studies, I have been fortunate to collaborate with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and [Hongcheng Gao](https://gao-hongcheng.github.io/). I greatly benefited from their guidance and mentorship, which has significantly influenced my research interests and direction.
 
 My research interests broadly center on **alignment in systems built upon large models**, including LLMs, MLLMs, VLA, and Agent-based systems. I am interested in both alignment failures across modalities (e.g. hallucination) and misalignment with human objectives in real-world interactive systems. 
+
+# 📖 Educations
+- *2021.09 - 2026.05*, Chongqing University & University of Cincinnati
+    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
     
 # 📝 Research
 - **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
@@ -38,9 +42,6 @@ My research interests broadly center on **alignment in systems built upon large 
   *Under review*  
   📄 [Paper](https://arxiv.org/pdf/2503.19622) 🤗 [HuggingFace](https://huggingface.co/datasets/Joshua999/HAVEN)
 
-# 📖 Educations
-- *2021.09 - 2026.05*, Chongqing University & University of Cincinnati
-    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
 
 # 💻 Experience
 
