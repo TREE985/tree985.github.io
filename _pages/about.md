@@ -13,9 +13,6 @@ During my undergraduate studies, I have been fortunate to collaborate with Prof.
 
 My research interests broadly center on **alignment in systems built upon large models**, including LLMs, MLLMs, VLA, and Agent-based systems. I am interested in both alignment failures across modalities (e.g. hallucination) and misalignment with human objectives in real-world interactive systems. 
 
-# 📖 Educations
-- *2021.09 - 2026.05*, Chongqing University & University of Cincinnati
-    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
     
 # 📝 Research
 - **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
@@ -56,6 +53,10 @@ My research interests broadly center on **alignment in systems built upon large 
 - Research Intern, FORTIS Lab @ University of Southern California  
   *Dec 2024 – Now*  
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
+
+# 📖 Educations
+- *2021.09 - 2026.05*, Chongqing University & University of Cincinnati
+    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
 
 # 🧑‍💻 Academic Service
 Reviewer for
