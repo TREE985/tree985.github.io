@@ -25,22 +25,22 @@ My research interests broadly center on **alignment in systems built upon large 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
   **(Core Contributor)** Shanghai AI Lab et al.  
   ***Tech Report***  
-  📄 [Paper](https://arxiv.org/pdf/2507.18576)  🤗 [HuggingFace](https://huggingface.co/AI45Research/SafeWork-R1)
+  [📄Paper](https://arxiv.org/pdf/2507.18576)   [🤗HuggingFace](https://huggingface.co/AI45Research/SafeWork-R1)
   
 - **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs**  
   Z. Wen, **J. Qu**, D. Liu, Z. Liu, R. Wu, Y. Yang, X. Jin, H. Xu, X. Liu, W. Li, C. Lu  
   ***ICLR 2026***  
-  📄 [Paper](https://arxiv.org/pdf/2507.11097)
+  [📄Paper](https://arxiv.org/pdf/2507.11097)
 
 - **Treble Counterfactual VLMs: A Causal Approach to Hallucination**  
   S. Li, **J. Qu**, Y. Zhou, Y. Qin, T. Yang, Y. Zhao  
   ***EMNLP 2025***  
-  📄 [Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
+  [📄Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
 
 - **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
   H. Gao\*, **J. Qu\***, J. Tang\*, B. Bi, Y. Liu, H. Chen, L. Liang, L. Su, Q. Huang  
   *Under review*  
-  📄 [Paper](https://arxiv.org/pdf/2503.19622) 🤗 [HuggingFace](https://huggingface.co/datasets/Joshua999/HAVEN)
+  [📄Paper](https://arxiv.org/pdf/2503.19622) [🤗HuggingFace](https://huggingface.co/datasets/Joshua999/HAVEN)
 
 
 # 💻 Experience
@@ -58,14 +58,14 @@ My research interests broadly center on **alignment in systems built upon large 
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
 
 # 🧑‍💻 Academic Service
-- Subreviewer, ESORICS 2025
+Reviewer for
+- 2026: ARR May
+- 2025: ESORICS
 
 # 🏆 Honors and Awards
 - National Scholarship (Top 1, ***twice***)
 - Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM)
 
-# 🎯 Miscellaneous
-- Fan of FC Bayern Munich · Interested in hip-hop (Asen) · Enjoy playing CSGO
   
 <p style="font-size: 0.8em; color: gray;">
   👀 Visitors: <span id="busuanzi_value_site_uv"></span> ·
