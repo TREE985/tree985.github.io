@@ -7,38 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiashu Qu, and I am a Master student at Peking University.
+My name is Jiashu Qu, and I am a first-year master student at Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/).
 
-During my undergraduate studies, I have been fortunate to collaborate with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and Dr. [Hongcheng Gao](https://gao-hongcheng.github.io/). I greatly benefited from their guidance and mentorship, which has significantly influenced my research interests and direction.
+During my undergraduate studies, I was fortunate to work with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) at USC and Dr. [Hongcheng Gao](https://gao-hongcheng.github.io/) at Tsinghua University.
 
 My research interests broadly center on **alignment in systems built upon large models**, including LLMs, MLLMs, VLA, and Agent-based systems. I am interested in both alignment failures across modalities (e.g. hallucination) and misalignment with human objectives in real-world interactive systems. 
 
     
 # 📝 Research
-- **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
-  S. Xie\*, Z. Zhang\*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
-  ***CoRL 2026***
-
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
   **(Core Contributor)** Shanghai AI Lab et al.  
   ***Tech Report***  
   [📄Paper](https://arxiv.org/pdf/2507.18576)   [🤗HuggingFace](https://huggingface.co/AI45Research/SafeWork-R1)
   
-- **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs**  
-  Z. Wen, **J. Qu**, D. Liu, Z. Liu, R. Wu, Y. Yang, X. Jin, H. Xu, X. Liu, W. Li, C. Lu  
-  ***ICLR 2026***  
-  [📄Paper](https://arxiv.org/pdf/2507.11097)
+- **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
+  H. Gao\*, **J. Qu\***, J. Tang\*, B. Bi, Y. Liu, H. Chen, L. Liang, L. Su, Q. Huang  
+  ***Transaction of ACL***  
+  [📄Paper](https://arxiv.org/pdf/2503.19622) [🤗HuggingFace](https://huggingface.co/datasets/Joshua999/HAVEN)
 
 - **Treble Counterfactual VLMs: A Causal Approach to Hallucination**  
   S. Li, **J. Qu**, Y. Zhou, Y. Qin, T. Yang, Y. Zhao  
   ***EMNLP 2025***  
   [📄Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1000.pdf)
 
-- **Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**  
-  H. Gao\*, **J. Qu\***, J. Tang\*, B. Bi, Y. Liu, H. Chen, L. Liang, L. Su, Q. Huang  
-  *Under review*  
-  [📄Paper](https://arxiv.org/pdf/2503.19622) [🤗HuggingFace](https://huggingface.co/datasets/Joshua999/HAVEN)
+- **The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs**  
+  Z. Wen, **J. Qu**, D. Liu, Z. Liu, R. Wu, Y. Yang, X. Jin, H. Xu, X. Liu, W. Li, C. Lu  
+  ***ICLR 2026***  
+  [📄Paper](https://arxiv.org/pdf/2507.11097)
+  
+- **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
+  S. Xie\*, Z. Zhang\*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
+  ***CoRL 2026***  
+  [📄Paper](https://arxiv.org/pdf/2610.20609)
 
+- **Read, Route, Patch: Robust Test-Time Evolution for LLM Agents**  
+  K. Chen, L. Yan, Y. Wei, J. Luo, Z. Dou, **J. Qu**, H. Liu, J. Wang  
+  ***NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents***  
+  [📄Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HHcfu5MAAAAJ&citation_for_view=HHcfu5MAAAAJ:Se3iqnhoufwC)
 
 # 💻 Experience
 
@@ -51,7 +56,7 @@ My research interests broadly center on **alignment in systems built upon large 
   <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
 
 - Research Intern, FORTIS Lab @ University of Southern California  
-  *Dec 2024 – Now*  
+  *Dec 2024 – Sep 2025*  
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
 
 # 📖 Educations
