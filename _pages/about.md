@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiashu Qu, and I am a final-year undergraduate at Chongqing University and the University of Cincinnati.
+My name is Jiashu Qu, and I am a Master student at Peking University.
 
-During my undergraduate studies, I have been fortunate to collaborate with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and [Hongcheng Gao](https://gao-hongcheng.github.io/). I greatly benefited from their guidance and mentorship, which has significantly influenced my research interests and direction.
+During my undergraduate studies, I have been fortunate to collaborate with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) and Dr. [Hongcheng Gao](https://gao-hongcheng.github.io/). I greatly benefited from their guidance and mentorship, which has significantly influenced my research interests and direction.
 
 My research interests broadly center on **alignment in systems built upon large models**, including LLMs, MLLMs, VLA, and Agent-based systems. I am interested in both alignment failures across modalities (e.g. hallucination) and misalignment with human objectives in real-world interactive systems. 
 
@@ -17,7 +17,7 @@ My research interests broadly center on **alignment in systems built upon large 
 # 📝 Research
 - **SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving**  
   S. Xie\*, Z. Zhang\*, J. Wang, **J. Qu**, X. Liang, L. Kong, J. Lu, H. I. Christensen, Q. A. Chen  
-  *Under Review*
+  ***CoRL 2026***
 
 - **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law**  
   **(Core Contributor)** Shanghai AI Lab et al.  
@@ -60,8 +60,8 @@ My research interests broadly center on **alignment in systems built upon large 
 
 # 🧑‍💻 Academic Service
 Reviewer for
-- 2026: ARR May
-- 2025: ESORICS
+- 2027: ICLR
+- 2026: EMNLP, ESORICS
 
 # 🏆 Honors and Awards
 - National Scholarship (Top 1, ***twice***)
