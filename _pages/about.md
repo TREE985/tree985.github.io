@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiashu Qu, and I am a first-year master student at Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/).
+I am a first-year master student at Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/).
 
 During my undergraduate studies, I was fortunate to work with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) at USC and Dr. [Hongcheng Gao](https://gao-hongcheng.github.io/) at Tsinghua University.
 
@@ -59,10 +59,15 @@ My research interests broadly center on **alignment in systems built upon large 
   *Dec 2024 – Sep 2025*  
   <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
 
-# 📖 Educations
-- *2021.09 - 2026.05*, Chongqing University & University of Cincinnati
-    - <span style="font-size: smaller;"> Rank: 1 / 97 </span>
+# 🎓 Education
 
+- **Peking University**  
+  Master’s Student · *Sep. 2026 – Present*
+
+- **Chongqing University & University of Cincinnati**  
+  Undergraduate Studies · *Sep. 2021 – May 2026*  
+  **Rank:** 1 / 97
+  
 # 🧑‍💻 Academic Service
 Reviewer for
 - 2027: ICLR
