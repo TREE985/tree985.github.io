@@ -91,7 +91,7 @@ My research interests broadly center on **alignment in systems built upon large 
   </div>
 </li>
 <li class="affiliation-card">
-  <div class="affiliation-logos"><img src="{{ '/images/affiliations/cqu.png' | relative_url }}" alt="Chongqing University logo" loading="lazy" width="80" height="64"><img src="{{ '/images/affiliations/uc.svg' | relative_url }}" alt="University of Cincinnati logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/cqu-emblem.svg' | relative_url }}" alt="Chongqing University logo" loading="lazy" width="80" height="64"></div>
   <div class="affiliation-info">
     <strong>Chongqing University &amp; University of Cincinnati</strong>
     <p>Undergraduate Studies · <em>Sep. 2021 – May 2026</em></p>
