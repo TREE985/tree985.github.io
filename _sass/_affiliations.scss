@@ -1,0 +1,49 @@
+/* Education and experience cards; scoped to preserve the theme elsewhere. */
+.page__content .affiliation-list {
+  list-style: none;
+  margin: 1em 0 1.5em;
+  padding: 0;
+}
+.affiliation-list .affiliation-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 0 0.75rem;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 9px;
+  background: #fff;
+  color: #494e52;
+}
+.affiliation-logos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 0 0 80px;
+}
+.affiliation-logos img {
+  display: block;
+  width: 80px;
+  height: 64px;
+  object-fit: contain;
+}
+.affiliation-info {
+  flex: 1;
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+.page__content .affiliation-info p {
+  margin: 0.3em 0 0;
+  font-size: 0.9em;
+}
+.affiliation-detail { color: #60666b; }
+@media (max-width: 600px) {
+  .affiliation-list .affiliation-card { padding: 0.75rem; gap: 0.75rem; }
+  .affiliation-logos { flex-basis: 56px; }
+  .affiliation-logos img { width: 56px; height: 48px; }
+}
+@media (max-width: 360px) {
+  .affiliation-list .affiliation-card { flex-direction: column; align-items: flex-start; }
+  .affiliation-logos { flex-basis: auto; flex-direction: row; flex-wrap: wrap; }
+}

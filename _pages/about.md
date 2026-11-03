@@ -47,27 +47,59 @@ My research interests broadly center on **alignment in systems built upon large 
 
 # 💻 Experience
 
-- Algorithm Intern, ByteDance  
-  *May 2026 – July 2026*  
-  <span style="font-size: 0.9em; color: gray;">
-  
-- Research Intern, The Center of Safe & Trustworthy AI @ Shanghai AI Lab  
-  *May 2025 – Aug 2025*  
-  <span style="font-size: 0.9em; color: gray;">Mentor: Dongrui Liu</span>
-
-- Research Intern, FORTIS Lab @ University of Southern California  
-  *Dec 2024 – Sep 2025*  
-  <span style="font-size: 0.9em; color: gray;">Mentor: Yue Zhao</span>
+<ul class="affiliation-list">
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/longcat.png' | relative_url }}" alt="Meituan LongCat logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>Meituan · LongCat Team</strong>
+    <p>Research Intern · <em>Nov. 2026 – Present</em></p>
+  </div>
+</li>
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/bytedance.svg' | relative_url }}" alt="ByteDance logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>ByteDance</strong>
+    <p>Algorithm Intern · <em>May 2026 – July 2026</em></p>
+  </div>
+</li>
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/shailab.png' | relative_url }}" alt="Shanghai AI Lab logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>The Center of Safe &amp; Trustworthy AI @ Shanghai AI Lab</strong>
+    <p>Research Intern · <em>May 2025 – Aug 2025</em></p>
+    <p class="affiliation-detail">Mentor: Dongrui Liu</p>
+  </div>
+</li>
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/usc.png' | relative_url }}" alt="University of Southern California logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>FORTIS Lab @ University of Southern California</strong>
+    <p>Research Intern · <em>Dec 2024 – Sep 2025</em></p>
+    <p class="affiliation-detail">Mentor: Yue Zhao</p>
+  </div>
+</li>
+</ul>
 
 # 🎓 Education
 
-- **Peking University**  
-  Master’s Student · *Sep. 2026 – Present*
+<ul class="affiliation-list">
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/pku.png' | relative_url }}" alt="Peking University logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>Peking University</strong>
+    <p>Master’s Student · <em>Sep. 2026 – Present</em></p>
+  </div>
+</li>
+<li class="affiliation-card">
+  <div class="affiliation-logos"><img src="{{ '/images/affiliations/cqu.png' | relative_url }}" alt="Chongqing University logo" loading="lazy" width="80" height="64"><img src="{{ '/images/affiliations/uc.svg' | relative_url }}" alt="University of Cincinnati logo" loading="lazy" width="80" height="64"></div>
+  <div class="affiliation-info">
+    <strong>Chongqing University &amp; University of Cincinnati</strong>
+    <p>Undergraduate Studies · <em>Sep. 2021 – May 2026</em></p>
+    <p class="affiliation-detail"><strong>Rank:</strong> 1 / 97</p>
+  </div>
+</li>
+</ul>
 
-- **Chongqing University & University of Cincinnati**  
-  Undergraduate Studies · *Sep. 2021 – May 2026*  
-  **Rank:** 1 / 97
-  
 # 🧑‍💻 Academic Service
 Reviewer for
 - 2027: ICLR
