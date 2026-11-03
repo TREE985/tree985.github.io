@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Jiashu's Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first-year master student at Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/).
+I’m Jiashu Qu. I am a first-year master student at Peking University, advised by Prof. [Wentao Zhang](https://zwt233.github.io/).
 
 During my undergraduate studies, I was fortunate to work with Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/) at USC and Dr. [Hongcheng Gao](https://gao-hongcheng.github.io/) at Tsinghua University.
 
